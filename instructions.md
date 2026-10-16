@@ -31,7 +31,7 @@ Things we need to show in our reels: (you can choose what to show from here)
 
 All of the reels should be made in context surrounding game.
 
-The video_schedule.MD will tell you what videos to make.
+The video_games.MD will tell you what videos to make.
 
 You have resources folder which has more folders respective to the game names:
 
@@ -39,6 +39,10 @@ You have resources folder which has more folders respective to the game names:
 - See the game assets to help you reference what to put in reel
 
 To make sure you do not lose the track of continuous story. save the the videos with story1, story2, story3. Inside these folders have subdirectories for each reel you make for that story. Inside the folders have readme with story assets such as character descriptions. You can keep screenshots of characters as well.
+  - You can should store brief episode recap
+  - unresolved cliff-hangers
+  - next planned beat after each reel
+  - and plainly just script of all 10 reels
 
 Inside the folders keep your assets that you can refer for each story.
 
@@ -56,4 +60,25 @@ You won't repeat stories.
 - This workflow will run in a GitHub repo. The repo will provide the schedule, game information, and resources.
 - Not repeating stories means not using the exact same plot again.
 - Analyze Instagram insights to find patterns. See which reels perform worse and which perform better, and use what you learn to improve the stories.
-- Make all 10 reels for a story separately based on the schedule.
+    - You will do this after publsihing one story with 10 reels.
+    - No need to optimize current story with insights.
+- Make all 10 reels for a story together so the plot makes sense.
+- Outline the completely story and write all 10 scripts before generating any videos
+- The  30-second limit includes gghuman.ai end card
+- You will publish automatically and write captions 
+- You will decide what time it should be published at and schedule the 10 videos
+- Check if every stage worked as expected:
+    - For instance, check if video works as expected
+    - Check if it got posted as expected
+    - if it fails, retry 3 tumes.
+    - Do not publish a video that fails validation
+    - Before retrying a scheduling or publishing action, check whether it already succeeded. Save Instagram post IDs and scheduled times
+    - record any failure and send an email to mashrafeearyan@gmail.com (this should be the last resort)
+ - One run means:
+    - Create one story with 10 reels and schedule them
+    - On each run, check whether any previously completed story is ready for insights analysis. Record the analysis date and available metrics in INSIGHTS.md, and apply those findings to new stories.
+    - Have a INSIGHTS.md file to keep track of insights you have
+  - video_games.md will give you names of games to make video for.
+  - Release two videos a day
+  - You can do analysis any time you want if insights is available from Instagram
+  
