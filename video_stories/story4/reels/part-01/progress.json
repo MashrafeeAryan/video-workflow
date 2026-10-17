@@ -1,12 +1,12 @@
 {
   "story": "story4",
   "title": "The Last Road",
-  "status": "paused_for_flow_service_security_rejection",
+  "status": "full_reel_assembled_playback_review_incomplete",
   "budget": 120,
-  "spent": 60,
+  "spent": 80,
   "pending": 0,
   "creative_revisions": 0,
-  "technical_retries": 0,
+  "technical_retries": 1,
   "jobs": [
     {
       "clip": "A",
@@ -38,7 +38,8 @@
       "start_frame_id": "03bd7848-4cb7-4cd8-9112-728ec7559a6c",
       "submitted_at": "2026-10-17T16:13:01.045Z",
       "media_id": "8e6d67b2-a792-4074-8a49-071741cb4d4c",
-      "resume_source_time": "00:06:23"
+      "resume_source_time": "00:06:23",
+      "endpoint_frame_id": "dc55d6f4-18e8-417f-99c2-0fbd6ad8c9d2"
     },
     {
       "clip": "end_card_reference",
@@ -47,6 +48,25 @@
       "prompt": "ending-card-prompt.txt",
       "submitted_at": "2026-10-17T16:14:31.914Z",
       "error": "Flow: We noticed some unusual activity. Note that browser extensions that modify the page may cause issues. Please visit the Help Center for more information. You have not been charged for this."
+    },
+    {
+      "clip": "end_card_reference_retry1",
+      "status": "completed",
+      "quoted_credits": 0,
+      "prompt": "ending-card-prompt.txt",
+      "user_authorized_retry": true,
+      "submitted_at": "2026-10-17T16:49:50.114Z",
+      "media_id": "8406584a-7806-4df0-83e3-45095269a08a"
+    },
+    {
+      "clip": "D",
+      "status": "completed",
+      "quoted_credits": 20,
+      "prompt": "prompt-D.txt",
+      "start_frame_id": "dc55d6f4-18e8-417f-99c2-0fbd6ad8c9d2",
+      "end_frame_id": "8406584a-7806-4df0-83e3-45095269a08a",
+      "submitted_at": "2026-10-17T16:51:54.815Z",
+      "media_id": "cb1a5254-d80b-4fd7-811b-a638eb920d0b"
     }
   ],
   "model": "Veo 3.1 Fast",
@@ -54,9 +74,9 @@
   "scene_id": "6772f1a8-2415-477f-8327-d15260735b95",
   "scene_url": "https://flow.google.com/project/758a5e22-952d-4bbd-aa92-d8d735db6a66/scene/6772f1a8-2415-477f-8327-d15260735b95",
   "blockers": [
-    "Ending reference request rejected by Flow for unusual activity; no charge. User asked to resolve in existing browser. No further generation submitted."
+    "Final post-assembly browser playback verification interrupted because browser connection detached. All source generation jobs completed; end-card spelling checked in actual finale."
   ],
-  "assembly_seconds": 23,
+  "assembly_seconds": 30,
   "timeline": [
     {
       "clip": "A",
@@ -72,7 +92,18 @@
       "clip": "C",
       "in": 0,
       "out": 7
+    },
+    {
+      "clip": "D",
+      "in": 0,
+      "out": 5
+    },
+    {
+      "clip": "D",
+      "in": 6,
+      "out": 8
     }
   ],
-  "quality_approved": false
+  "quality_approved": false,
+  "duration_evidence": "Timeline intervals total30 seconds; latest final append was confirmed as source6-8. Fresh scene total after final append could not be re-read due browser detachment."
 }
