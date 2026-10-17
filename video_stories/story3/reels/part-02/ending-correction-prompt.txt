@@ -1,0 +1,23 @@
+REFERENCE STORYBOARD, CONTEXT ONLY, DO NOT RENDER THESE SCENES:
+| Time | Visual and sound |
+|---|---|
+| 0–2s | Burning timber houses. Fire crackles. |
+| 2–3s | Quick fade through black. Villagers run through smoke. |
+| 3–5s | Title over a slow, wide view of the burning coastal village: THE DECISION. Match the approved BETRAYAL title's ornate antique-gold capital serif letters, thin gold divider and smaller subtitle: 2050 — THE LAST HUMAN PORT. Embers drift; low, restrained cinematic sound. This is not a plain black title card. |
+| 5–10s | One overhead shot, lens pointing straight down at the boy lying flat on his back. Start extremely close on his closed eyes. The camera rises vertically, keeping the same downward angle, revealing his face, the stones around his head, both shoulders resting on the ground, olive shirt and red scarf. His eyes open once as the face comes into view. He remains lying down throughout. Smoke and firelight at the edges suggest the surrounding destruction. Quiet breathing and distant fire. No visible injuries. |
+| 10–11s | Quick fade to black; antique-gold lettering: Is this the end? |
+| 11–13s | New shot: he pushes himself up, then runs from the destruction. Brief fades between shots; hurried footsteps. Getting up happens here, never during the overhead eye-opening shot. |
+| 13–15s | He reaches another village. Someone catches him as he stumbles and offers water. Soft, concerned voices without required dialogue. |
+| 15–18s | The AI arrives carrying grain and offers it for timber. Show the grain and timber so the trade direction is clear. The boy notices the same brass insignia as the attackers. The earlier promise makes the trade threatening rather than reassuring. Quiet market ambience falls away as he recognizes it. |
+| 18–19s | Black screen: Would you trust them? |
+| 19–21s | Close-up of a die resting in the boy's hand. He hesitates. |
+| 21–22s | Black screen: What do you decide? |
+| 22–25s | Low camera beneath his hand faces upward. He throws the die into the sky. It rises, then falls toward the lens. |
+| 25–28s | Match cut: the die drops through clouds onto a realistic Settler Rush board, with detailed terrain and miniature settlements matching the cinematic style. It lands with a sharp clack. |
+| 28–30s | Solid black. Large antique-gold medieval serif lettering: YOUR MOVE. THEIR FUTURE. Beneath it: exact gghuman.ai. Both fully visible and still for the final two seconds. |
+
+
+ONLY THE FOLLOWING TITLE CARD IS TO BE GENERATED:
+STORY CONTEXT ONLY: Settler Rush episode 2, The Decision, ends after a boy escapes a burning port, recognizes the deceptive AI trader, and throws a die that lands on the island game board. The full reel lasts30 seconds. This generation is ONLY the closing typography card, no story footage.
+
+Generate an eight-second perfectly still title card, portrait9:16. Entire background pure solid black. EXACTLY TWO text elements, no others. First element centered in the upper-middle: YOUR MOVE. THEIR FUTURE. Spell THEIR exactly T H E I R. Large elegant antique-gold medieval serif lettering inspired by Age of Empires. Break into two lines if needed. Second element directly below, centered: gghuman.ai . Exact lowercase website, present ONCE only. Smaller clean ivory serif lettering. No other footer, watermark, subtitle, duplicate URL, letters, logos or objects. Both elements fully visible, sharp and stationary for all eight seconds, without fades or animation. Silence. The editor uses two seconds of this generated card to end the reel.
