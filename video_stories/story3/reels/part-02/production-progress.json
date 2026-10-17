@@ -1,0 +1,115 @@
+{
+  "status": "full_cut_saved_quality_blocked",
+  "preview_spent": 60,
+  "production_allowance": 100,
+  "production_pending": 0,
+  "production_spent": 100,
+  "scope": "Complete 30-second episode, not preview",
+  "jobs": [
+    {
+      "clip": "A",
+      "status": "completed",
+      "quoted_credits": 20,
+      "prompt": "submitted-A.txt",
+      "references": [
+        "reference-04s.jpg"
+      ],
+      "submitted_at": "2026-10-17T15:40:29.056Z",
+      "media_id": "03a6b12d-be54-42f2-a96f-b879ff8dad76",
+      "source_seconds": 8,
+      "endpoint_time": "00:07:16"
+    },
+    {
+      "clip": "D",
+      "status": "completed",
+      "quoted_credits": 20,
+      "prompt": "submitted-D.txt",
+      "references": [
+        "reference-04s.jpg"
+      ],
+      "submitted_at": "2026-10-17T15:41:03.369Z",
+      "media_id": "25a90fc2-3258-47ca-a7f0-384606f191ee",
+      "review_issues": [
+        "At source6:20 the generated end card duplicates gghuman.ai and tagline appears misspelled; not approved."
+      ]
+    },
+    {
+      "clip": "B",
+      "status": "completed",
+      "quoted_credits": 20,
+      "prompt": "submitted-B.txt",
+      "start_frame_id": "9619a733-0c4d-45cf-aea8-ce430b92ac77",
+      "submitted_at": "2026-10-17T15:42:41.706Z",
+      "media_id": "ce41f6e9-86cf-4d2d-b167-d73847f86bde"
+    },
+    {
+      "clip": "C",
+      "status": "completed",
+      "quoted_credits": 20,
+      "prompt": "submitted-C.txt",
+      "references": [
+        "9619a733-0c4d-45cf-aea8-ce430b92ac77",
+        "reference-08s.jpg"
+      ],
+      "submitted_at": "2026-10-17T15:43:26.002Z",
+      "media_id": "8ea6db44-1cf4-4959-8793-ec67ee9b966c"
+    },
+    {
+      "clip": "E",
+      "purpose": "Targeted correction of failed generated end card",
+      "status": "completed",
+      "quoted_credits": 20,
+      "prompt": "ending-correction-prompt.txt",
+      "submitted_at": "2026-10-17T15:49:01.274Z",
+      "media_id": "8daa011a-ca83-4bdf-a8fa-a0487ba2d22a",
+      "review_issues": [
+        "Full-size inspection shows malformed tagline letter shapes and website resembling gghunan.ai; rejected replacement, original D ending restored."
+      ],
+      "used_in_final": false
+    }
+  ],
+  "character_frame_id": "9619a733-0c4d-45cf-aea8-ce430b92ac77",
+  "scene_id": "84f36668-821f-45a4-9cf5-fddbeee1c1c9",
+  "scene_url": "https://flow.google.com/project/758a5e22-952d-4bbd-aa92-d8d735db6a66/scene/84f36668-821f-45a4-9cf5-fddbeee1c1c9",
+  "timeline": [
+    {
+      "clip": "A",
+      "in": 0,
+      "out": 8
+    },
+    {
+      "clip": "B",
+      "in": 0,
+      "out": 8
+    },
+    {
+      "clip": "C",
+      "in": 0,
+      "out": 4
+    },
+    {
+      "clip": "C",
+      "in": 6,
+      "out": 8
+    },
+    {
+      "clip": "D",
+      "in": 0,
+      "out": 6
+    },
+    {
+      "clip": "D",
+      "in": 6,
+      "out": 8
+    }
+  ],
+  "creative_revisions_including_preview": 3,
+  "total_spent_including_preview": 160,
+  "quality_approved": false,
+  "blockers": [
+    "Character age/face shifts in trade shot",
+    "Generated timing and text do not fully match script",
+    "Audio/export checks unverified",
+    "Creative revision limit reached"
+  ]
+}

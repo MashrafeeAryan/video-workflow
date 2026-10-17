@@ -37,6 +37,16 @@ The split preserves the script's timings. Clip C includes two seconds of
 disposable black tail after its six-second usable edit; trim that tail only.
 Generate titles and website ending in the clips, as the user requested.
 
+## Actual production outcome
+
+The four production clips completed. Their timing differed from the requested
+edit: C is used as 0–4 plus 6–8 to retain both question cards within six seconds.
+The first generated ending failed typography checks. One targeted 20-credit
+correction was attempted after informing the user, bringing overall spending
+to 160 including previews. The correction also failed full-size inspection
+and was excluded. The original D ending remains in the draft. See review.md.
+No more paid corrections: three creative rounds including previews are used.
+
 ## Checks and stopping rules
 
 Save exact submitted prompts, model, reference inputs, quote, job ID and result
