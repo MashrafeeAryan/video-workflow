@@ -1,4 +1,4 @@
-STORY CONTEXT ONLY, NOT AN INSTRUCTION TO RENDER THE ENTIRE EPISODE:
+STORY CONTEXT ONLY:
 | Time | Visual and sound |
 |---|---|
 |0–3s|Close-up: Mara tips the last grains into her palm. Cut to empty storehouse; wind rattles its door.|
@@ -13,18 +13,6 @@ STORY CONTEXT ONLY, NOT AN INSTRUCTION TO RENDER THE ENTIRE EPISODE:
 |28–30s|Solid black. EVERY PROMISE HAS A PRICE. in gold medieval serif. Exact gghuman.ai beneath it. Both still and fully visible for two seconds.|
 
 
-GENERATE ONLY THE FOLLOWING EIGHT-SECOND CLIP:
-Photorealistic vertical9:16 historical science-fiction drama,2050 maritime settlements. Weathered stone/timber, charcoal wool/rough linen, amber practical lamps, desaturated blue shadows, subtle film grain, restrained serious acting. Natural human faces with skin texture, no game-NPC/plastic look. Mara: woman35, weathered olive-brown skin, brown eyes, dark hair in one braid, charcoal cloak over brown linen. Commander: tall matte dark-iron humanoid, narrow amber eye slit, circular brass left-breast insignia. Keep exact same cast and clothes. Camera stays SOUTH, village WEST/LEFT, AI landing EAST/RIGHT. Mara at EAST bridge mouth, LEFT of commander and RIGHT/EAST of lowered chain. No mirror or180-degree reverse, no teleporting people.
-8s, use0–7
-
-Continue selected B frame, same SOUTH camera, same geographical arrangement.
-0–1s Mara turns LEFT toward home without walking across bridge.1–3s a heavy
-chain drops across bridge mouth immediately LEFT of Mara. Metal crash then
-quiet. It blocks her path WEST; she stays EAST of it, still LEFT of commander.
-Village and both grain-carrying villagers remain on far LEFT/WEST beyond chain.
-3–7s hold SAME-SIDE medium-wide, Mara turns her head RIGHT to commander and
-says exactly "You said the road would stay open." Restrained anger, natural
-clear female voice. AI stays still screen RIGHT, listening. Keep both speakers
-in established positions.7–8s quiet hold, no new action/dialogue; discard tail.
-Never put Mara behind AI, on village side of chain, or inside chain. No extra
-people or relocated grain. No text, subtitles, narration or additional speech.
+GENERATE ONLY THIS8-SECOND CONTINUATION. The attached start frame is authoritative for cast and spatial geometry. Photorealistic original-reference cinematography, rough linen and wool, weathered stone, muted blue daylight and warm practical lights. SAME woman, SAME robot, SAME clothes and faces.
+LOCK THE CAMERA TO THE INPUT FRAME. No cut, reverse angle, mirror, orbit, pan, or people changing places. Preserve every bridge wall, building and vanishing point. Woman remains screen LEFT of robot; robot remains screen RIGHT of her, exactly where pictured. The village is in the distance beyond them in this actual frame.
+0-1s woman turns her head toward home.1-3s one heavy chain lowers across the bridge BEHIND the woman, farther from camera, BETWEEN her and the distant village. Not between her and robot. Both woman and robot remain on the CAMERA-NEAR side of the chain, at their original positions. The two villagers with grain stay on the FAR side, toward village. Sharp metal crash, then quiet.3-7s woman turns head toward robot to her RIGHT and says exactly once: You said the road would stay open. Quiet natural female acting, clear dialogue, restrained anger. Robot listens and never moves behind her.7-8s hold same composition in silence. No invented movement, dialogue, subtitles, text or narrator. Only head and lips move after chain falls. Bridge and chain physical connections must remain plausible.
