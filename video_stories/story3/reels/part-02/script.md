@@ -1,8 +1,9 @@
 # Settler Rush episode 2 — The Decision
 
-Status: revised script after the first five-second preview. The user liked its
-cinematography but rejected the upright pose. No new video generation is
-authorized by this script revision. Hold the full episode for the user's decision.
+Status: the user explicitly requested the complete episode. The latest preview
+was rejected and must not be treated as approved footage. Produce the complete
+30-second storyboard below, subject to the user's credit limit. See
+production-plan.md for the clip split and budget; no further preview fixes.
 
 Continue the original BETRAYAL / The Last Human Port video. Use its actual
 reference frames, original Kling 3.0 prompts and cinematic material/lighting
@@ -31,9 +32,8 @@ two dice, as its game README states. Board components should follow the real
 game, with realistic materials rather than pixel art. Do not substitute another
 game's branding or imply that port warfare is a playable mechanic.
 
-Full-production planning still needs to fit supported shot lengths and readable
-intertitles. Record necessary timing refinements before generation. Generate
-the title imagery within the chosen tool rather than assuming text accuracy.
+The production split is recorded in production-plan.md. Generate the title
+imagery within the chosen tool and verify it rather than assuming text accuracy.
 
 ## Character introduced in episode 2
 
@@ -41,7 +41,9 @@ Eli, 17: lean teenage boy with warm brown skin, short untidy black hair,
 dark brown eyes, faded olive linen shirt, worn brown trousers and a rust-red
 scarf. Light soot and dust only; no wounds. Exhausted but alert. This is a new
 character; the approved first episode contains no reference image of him.
-Save his approved preview appearance for consistent later shots.
+The preview's cinematography was liked, but the latest preview was rejected.
+Do not claim any preview is approved. Keep the described identity consistent
+in the new episode and record the actual reference inputs used.
 
 ## Model handoff
 
@@ -51,6 +53,7 @@ The existing source preview is eight seconds trimmed to five; it did not fully
 follow the lying-down direction and is not an approved pose reference. Preserve
 the actual historical submitted-prompt.md rather than rewriting the record.
 
-Read edge-cases.md before new generations. The revised five-second shot prompt
-is tests/eyes-5s/revision-01-prompt.md; it has not been submitted. The approved
-original frame reference-04s.jpg is the title-layout reference for THE DECISION.
+Read edge-cases.md before new generations. Historical preview prompts and job
+IDs remain in tests/eyes-5s/. The original frame reference-04s.jpg is the
+title-layout reference for THE DECISION. The full-episode prompt set is in
+production-prompts.md; preview completion does not complete this episode.
