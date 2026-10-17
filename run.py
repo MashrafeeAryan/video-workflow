@@ -39,6 +39,15 @@ progress, and insights before acting. Resume unfinished work before creating
 another story. Keep each story's assets and continuity separate. Save progress,
 outputs, job IDs, review results, and any blockers so the next run can resume.
 
+Temporary override for this run: create only ONE 10-second test reel, including
+the gghuman.ai ending. This overrides conflicting instructions about duration,
+timing, release schedules, producing ten reels, or writing the full ten-part
+story before generation. Do not produce additional reels during this run.
+Keep the applicable game, character-consistency, quality-review, and failure-
+handling instructions. Save the result locally; do not publish to Instagram
+or collect insights. If the generation tool cannot output exactly 10 seconds,
+assemble or trim the footage locally to a 10-second final export.
+
 Use only available, configured tools and already authorized budgets. Do not
 use separately billed OpenAI API keys or purchase credits. If a required tool,
 permission, budget, or input is missing, save the blocker and report it; never
