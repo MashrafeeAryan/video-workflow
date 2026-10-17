@@ -12,6 +12,12 @@ For now, use Google Flow through the existing signed-in Chrome browser connectio
 
 You need to create a script for each reel.
 
+Save every reel script and any preview-shot prompt in the repository before
+generation. Keep them with the relevant story and reel, and commit and push
+the scripts to GitHub when preparing production. Keep unrelated local files
+out of that commit. If pushing fails, report it rather than claiming the script
+is on GitHub.
+
 Each reel should have hook, plot, cliff-hanger all within 30 seconds. (EXCEPTION for last reel)
 
 Each reel will be <= 30 seconds.
