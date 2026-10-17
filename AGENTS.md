@@ -161,6 +161,62 @@ export. Follow the maximum of three revision rounds in Failure Handling.
 Publish only when all required checks pass. If any required check fails or
 remains unverified, hold the reel and save the reason.
 
+## Approved Cinematic Visual Reference
+
+- Before writing generation prompts for a new story, read
+  `resources/settler-rush/visual-reference/README.md` and `original-prompts.md`
+  in that folder. Inspect `reference-sheet.jpg` and the individual frames;
+  review `original-settler-rush.mp4` with available video tools. This is the
+  user's preferred visual benchmark, including when adapting the look to Poker
+  or another game.
+- Preserve its grounded photorealistic cinematography: weathered materials,
+  natural-looking human faces, amber practical light, muted blue shadows,
+  restrained performances, deliberate framing, and tactile film texture.
+  Avoid generic glossy AI-ad styling. Use the actual visual references rather
+  than relying only on descriptive words.
+- The original clips used Kling 3.0. If the available model is different,
+  record that difference and use supported image/video reference inputs.
+  Check actual results against the benchmark; never assume the same prompt
+  gives the same appearance across models. Do not switch to a paid provider
+  outside the authorized budget or connection.
+- When continuing this Settler Rush story, preserve its captain, robots, and
+  setting using the saved frames. For a different story, carry over the visual
+  style but create and save that story's own consistent cast and game setting.
+  Do not repeat the reference plot or treat its cinematic cannon attack as an
+  actual Settler Rush game mechanic; game rules come from the game README.
+- Save which reference frames and model were used in the story's continuity
+  notes and quality review. If direct reference inputs or video review are
+  unavailable, record the limitation honestly rather than claiming a match.
+
+## Generated Ending and Clear Deception
+
+- Make the AI's deception understandable through its actions and consequences.
+  Include brief, natural dialogue when the visuals alone do not make the lie,
+  bluff, manipulation, or betrayal clear.
+- Include the ending directly in the video-generation prompt. Ask the video
+  model to generate it as part of the video; do not require a separate editing
+  step just to add the website ending.
+- Reserve the final two seconds of the reel for the ending, within the total
+  runtime. At the moment the cliff-hanger lands, cut to a solid black screen.
+  For a final episode, do this after the story resolves.
+- Center one short, story-relevant tagline in large, elegant medieval serif
+  lettering inspired by the Age of Empires title style. Use warm gold text,
+  strong contrast, and generous spacing. Directly beneath it, show the exact
+  text "gghuman.ai" in smaller, clean, clearly readable lettering.
+- Choose one tagline that fits the story, such as "Let the deception begin."
+  or, for Poker, "The cards don't lie. Players do." Do not show both.
+- Hold both lines fully visible and still for the final two seconds. Avoid
+  additional text, distracting animation, or a fade that shortens reading time.
+- Example generation instruction: "As the cliff-hanger hits, cut to solid
+  black for the final two seconds. Display the exact words 'The cards don't
+  lie. Players do.' centered in large warm-gold medieval serif lettering
+  inspired by Age of Empires. Beneath that, display the exact text 'gghuman.ai'
+  in smaller, clean, readable lettering. Keep both lines sharp, correctly
+  spelled, stationary, and fully visible for the entire two seconds. Generate
+  this ending within the video itself and within the total runtime."
+- Verify the generated ending in the actual video. A prompt alone does not
+  confirm that the text appeared, was spelled correctly, or stayed readable.
+
 ## Current 10-Second Trial
 
 - Produce only one 10-second Poker reel, including the gghuman.ai ending,

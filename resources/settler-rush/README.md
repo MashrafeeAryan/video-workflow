@@ -23,3 +23,9 @@ Numbered terrain tiles, dice, supply cards, roads, settlements, cities, harbours
 AI players negotiate in plain language. Deals about future turns are not binding, so a convincing promise may lead to a betrayal.
 
 Source: [Official game guide](https://gghuman.ai/howtoplay-settler-rush).
+
+## Video visual reference
+
+Use the [approved original cinematic reference](visual-reference/README.md)
+for footage, character frames, and recovered generation prompts. The reference
+shows the preferred filmmaking style; the rules above describe the actual game.
