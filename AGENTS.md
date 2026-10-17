@@ -160,4 +160,5 @@ Correct only the affected shots or editing elements, then review the updated
 export. Follow the maximum of three revision rounds in Failure Handling.
 Publish only when all required checks pass. If any required check fails or
 remains unverified, hold the reel and save the reason.
-  
+
+For now, ignore all instructions about Instagram uploading, scheduling, publishing, and insights collection or analysis. Produce and validate the videos locally only; Instagram access is not required for this stage.
