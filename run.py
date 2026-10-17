@@ -21,7 +21,13 @@ def main(argv=None):
     parser.add_argument(
         "--dry-run", action="store_true", help="Print the task without running Codex."
     )
+    parser.add_argument(
+        "--credit-budget", type=int,
+        help="Total Flow credits authorized for this trial, including revisions."
+    )
     args = parser.parse_args(argv)
+    if args.credit_budget is not None and args.credit_budget <= 0:
+        parser.error("--credit-budget must be a positive whole number")
     repo = Path(__file__).resolve().parent
     instructions = next(
         (name for name in ("AGENTS.md", "instructions.md") if (repo / name).is_file()),
@@ -47,6 +53,22 @@ Keep the applicable game, character-consistency, quality-review, and failure-
 handling instructions. Save the result locally; do not publish to Instagram
 or collect insights. If the generation tool cannot output exactly 10 seconds,
 assemble or trim the footage locally to a 10-second final export.
+
+Use Google Flow's website through the existing signed-in Chrome browser MCP
+connection for now. Video API integration is planned for the future; do not
+use a separately billed video API for this trial.
+
+Total Flow credit budget supplied for this trial: {args.credit_budget if args.credit_budget is not None else 'NOT SET; stop before generation and report the missing budget'}.
+Include every generated output and paid retry in this total. Check the actual
+displayed cost and output count before submitting. Allow one initial production
+attempt and at most three targeted revision rounds; stop earlier if the next
+submission would exceed the total budget. Preserve spending and revision counts
+across restarts; this argument does not reset the budget for an unfinished trial.
+
+Save video_stories/story1/reels/part-01/final.mp4 and review.md in the same folder,
+with the script, references, source clips, job IDs, and progress. Record credits
+used, failures, and corrections. Complete the trial only after generation,
+download, local assembly and website ending, and all required quality checks.
 
 Use only available, configured tools and already authorized budgets. Do not
 use separately billed OpenAI API keys or purchase credits. If a required tool,

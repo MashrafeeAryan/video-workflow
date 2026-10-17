@@ -8,7 +8,7 @@ Your role:
 
 This is an automotive workflow so you will take the lead.
 
-You have access to Google Flow API to make videos and Instagram API to post reels and gain insights from the reels.
+For now, use Google Flow through the existing signed-in Chrome browser connection and browser MCP tools. Use the Google AI Pro account's available Flow credits; do not use a video-generation API or separately billed API credits. API integration is planned for the future and is not required for the current trial. Instagram publishing and insights remain disabled for now.
 
 You need to create a script for each reel.
 
@@ -160,5 +160,26 @@ Correct only the affected shots or editing elements, then review the updated
 export. Follow the maximum of three revision rounds in Failure Handling.
 Publish only when all required checks pass. If any required check fails or
 remains unverified, hold the reel and save the reason.
+
+## Current 10-Second Trial
+
+- Produce only one 10-second Poker reel, including the gghuman.ai ending,
+  as specified by the temporary override in run.py.
+- Before generating, require an explicit total Flow credit budget for this trial.
+  The account's remaining balance is not permission to spend all of it.
+  If no budget has been supplied, stop before generation and report the missing budget.
+- Check the displayed model, output count, and total generation cost before
+  each submission. Count every output and paid retry against the same budget.
+- Permit one initial production attempt and at most three targeted revision
+  rounds, stopping earlier if the next submission would exceed the budget.
+  Keep spent credits, pending jobs, and revision counts across restarts.
+  Resolve uncertain jobs before submitting or spending again.
+- Save the final export at video_stories/story1/reels/part-01/final.mp4 and
+  its quality review at video_stories/story1/reels/part-01/review.md.
+  Keep the script, references, source clips, job IDs, and progress with that reel.
+- Record the credits used, generation and revision attempts, failures, and
+  remaining blockers. Mark the trial complete only after the downloaded footage
+  has been assembled into the 10-second final export and all required quality
+  checks pass. Browser access alone does not count as a completed trial.
 
 For now, ignore all instructions about Instagram uploading, scheduling, publishing, and insights collection or analysis. Produce and validate the videos locally only; Instagram access is not required for this stage.
