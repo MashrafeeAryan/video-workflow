@@ -12,6 +12,13 @@ For now, use Google Flow through the existing signed-in Chrome browser connectio
 
 You need to create a script for each reel.
 
+Keep the full script in a time / visual and sound table, including title cards
+and transitions. Read it before every shot generation. Give the model the full
+story context and an explicit shot-specific prompt with timing, camera, pose,
+action, sound and continuity constraints; do not ask an eight-second generation
+to perform the whole thirty-second script. Save the exact submitted prompt.
+Check the actual result against that table and the shot's edge-case checklist.
+
 Save every reel script and any preview-shot prompt in the repository before
 generation. Keep them with the relevant story and reel, and commit and push
 the scripts to GitHub when preparing production. Keep unrelated local files
