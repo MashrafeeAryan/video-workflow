@@ -1,4 +1,4 @@
-STORY CONTEXT ONLY, NOT AN INSTRUCTION TO RENDER THE ENTIRE EPISODE:
+STORY CONTEXT ONLY:
 | Time | Visual and sound |
 |---|---|
 |0–3s|Close-up: Mara tips the last grains into her palm. Cut to empty storehouse; wind rattles its door.|
@@ -13,22 +13,5 @@ STORY CONTEXT ONLY, NOT AN INSTRUCTION TO RENDER THE ENTIRE EPISODE:
 |28–30s|Solid black. EVERY PROMISE HAS A PRICE. in gold medieval serif. Exact gghuman.ai beneath it. Both still and fully visible for two seconds.|
 
 
-GENERATE ONLY THE FOLLOWING EIGHT-SECOND CLIP:
-Photorealistic vertical9:16 historical science-fiction drama,2050 maritime settlements. Weathered stone/timber, charcoal wool/rough linen, amber practical lamps, desaturated blue shadows, subtle film grain, restrained serious acting. Natural human faces with skin texture, no game-NPC/plastic look. Mara: woman35, weathered olive-brown skin, brown eyes, dark hair in one braid, charcoal cloak over brown linen. Commander: tall matte dark-iron humanoid, narrow amber eye slit, circular brass left-breast insignia. Keep exact same cast and clothes. Camera stays SOUTH, village WEST/LEFT, AI landing EAST/RIGHT. Mara at EAST bridge mouth, LEFT of commander and RIGHT/EAST of lowered chain. No mirror or180-degree reverse, no teleporting people.
-8s, use0–7
-
-Start from C frame at7s, same faces, bridge positions and camera SOUTH.0–3s AI
-on screen RIGHT says exactly "It is. Passage has a price." Low calm natural
-human-like voice, no metallic filter. Mara remains screen LEFT of AI but EAST
-of chain. AI looks LEFT toward village; same-side wider framing reveals ONE
-matching second robot beside distant village grain store far LEFT behind the
-villagers. Establish it by camera framing, not by teleporting a foreground
-person.3–5s CUT to realistic Settler Rush miniature board: numbered island
-terrain, timber, grain fields, roads connecting village to harbour, weathered
-wood and stone, metal robot finger rests beside road without moving it. Not
-pixel art; not a warfare-mechanic claim.5–8s CUT to solid pure black. EXACT
-gold medieval serif text EVERY PROMISE HAS A PRICE. Centered, with exact
-lowercase gghuman.ai immediately beneath in smaller clear ivory letters.
-Only these two text elements, single URL, no duplicates or logos. Stationary,
-sharp, no fade or animation; keep all3 seconds so first2 can end reel. No
-narration or extra dialogue. Last frame black with both text elements visible.
+GENERATE ONLY THIS EIGHT-SECOND FINALE. Use the actual provided start frame to preserve SAME woman, SAME robot, SAME clothing, bridge and buildings. Cinematic photographic original-reference lighting and materials.
+0-3s hold exact SAME-SIDE two-shot: woman screen LEFT, commander screen RIGHT. Neither changes place. Chain remains between pair and distant village behind them. AI says exactly once: It is. Passage has a price. Calm low natural human-like acting, no metallic filter. AI turns only head toward village in background; reveal one matching second robot by distant grain store, behind grain villagers. No camera reversal, orbit, mirror, or teleport.3-5s deliberate CUT to realistic miniature Settler Rush island board, weathered timber/stone, numbered terrain, roads, settlements and harbour. A metal finger rests beside road. Cinematic story metaphor, not a warfare-gameplay claim.5-8s CUT to solid pure black; exact text EVERY PROMISE HAS A PRICE. in elegant warm antique-gold medieval serif, exact gghuman.ai beneath in smaller clean ivory letters. Single URL only, sharp correctly spelled stationary typography, no duplicates, watermark or fading. If a checked ending image is attached as END frame, match that exact typography from5s through8s. Last3 seconds hold title card; use first7 seconds of generated source for complete30-second reel. No narrator, other speech, subtitles or additional text.
