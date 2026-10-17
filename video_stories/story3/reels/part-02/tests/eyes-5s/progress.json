@@ -1,0 +1,70 @@
+{
+  "initial_attempts": 1,
+  "jobs": [
+    {
+      "media_id": "e1ad2f6f-2a5d-4156-8935-9510b6386e06",
+      "status": "completed",
+      "source_seconds": 8,
+      "quoted_credits": 20,
+      "url": "https://flow.google.com/project/758a5e22-952d-4bbd-aa92-d8d735db6a66/edit/e1ad2f6f-2a5d-4156-8935-9510b6386e06"
+    }
+  ],
+  "references_inspected": [
+    "reference-sheet.jpg",
+    "reference-04s.jpg",
+    "reference-08s.jpg",
+    "reference-14s.jpg"
+  ],
+  "status": "preview_ready_for_user_review",
+  "existing_progress": "No progress.json or previous preview output present",
+  "technical_retries": 0,
+  "budget": {
+    "authorized_per_video": 120,
+    "spent": 20,
+    "this_preview_max": 20,
+    "pending": 0
+  },
+  "scope": "One Settler Rush episode 2 five-second eye-opening preview",
+  "creative_revisions": 0,
+  "updated_at": "2026-10-17T15:13:16.775350+00:00",
+  "blockers": [],
+  "flow_project_url": "https://flow.google.com/project/758a5e22-952d-4bbd-aa92-d8d735db6a66",
+  "model": "Veo 3.1 - Fast",
+  "quote": {
+    "orientation": "9:16",
+    "source_seconds": 8,
+    "observed_at": "2026-10-17T15:05:19.4859848Z",
+    "outputs": 1,
+    "credits": 20,
+    "type": "Ingredients",
+    "resolution_ui": "720p"
+  },
+  "actual_source_seconds": null,
+  "actual_trimmed_seconds": null,
+  "uploaded_reference_ids": [],
+  "reference_upload": "User explicitly approved upload; parent normal file chooser accepted reference-04s.jpg and reference-08s.jpg; both visible as ingredients.",
+  "generation_settings": {
+    "preview_duration_seconds": 5,
+    "model": "Veo 3.1 - Fast",
+    "aspect_ratio": "9:16",
+    "output_count": 1,
+    "mode": "Ingredients",
+    "quoted_credits": 20,
+    "source_duration_seconds": 8
+  },
+  "project_url": "https://flow.google.com/project/758a5e22-952d-4bbd-aa92-d8d735db6a66",
+  "submitted_prompt": "submitted-prompt.md",
+  "preview": {
+    "scene_id": "3b34b9b2-0875-4f83-bc9a-7b7c28e934b7",
+    "url": "https://flow.google.com/project/758a5e22-952d-4bbd-aa92-d8d735db6a66/scene/3b34b9b2-0875-4f83-bc9a-7b7c28e934b7",
+    "duration_seconds": 5,
+    "source_start": 0,
+    "source_end": 5,
+    "aspect_ratio": "9:16"
+  },
+  "quality_approved": false,
+  "known_issues": [
+    "At source 00:04:23 the boy appears upright/front-facing rather than visibly lying on cobblestones. User should judge the visual style before further production."
+  ],
+  "credit_accounting": "20 counted used from the verified one-output displayed quote and completed generation; independent balance change not inspected."
+}
