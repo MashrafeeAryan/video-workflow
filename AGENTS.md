@@ -81,4 +81,40 @@ You won't repeat stories.
   - video_games.md will give you names of games to make video for.
   - Release two videos a day
   - You can do analysis any time you want if insights is available from Instagram
+
+## Failure Handling
+
+Save progress after every completed step. Record each story and reel's
+current step, output files, job IDs, retry counts, revision counts,
+and errors.
+
+- Temporary timeout or connection error:
+  Check whether the action already succeeded. If it failed, retry
+  with a delay, up to three retries after the initial attempt.
+
+- Video fails quality review:
+  Record the specific problems. Correct only the affected shots,
+  then review again. Allow at most three revision rounds per reel.
+
+- Missing tool, login, reference, or credits:
+  Save the blocker and stop work on that story until it is resolved.
+
+- Generation result is uncertain:
+  Check the saved job ID and generation history before submitting
+  another request. If the outcome cannot be confirmed, mark the
+  step blocked rather than risk spending credits twice.
+
+- Publishing result is uncertain:
+  Check the saved post ID and account's recent posts before
+  publishing again. If the outcome cannot be confirmed, mark
+  the step blocked rather than risk a duplicate post.
+
+- Failure continues after the limit:
+  Mark the story blocked, record the reason, and notify the user.
+
+Track technical retries separately from creative revision rounds.
+Do not reset either counter when the workflow restarts.
+
+Resume from saved progress. Reuse completed work.
+Do not publish later parts while an earlier part remains blocked.
   
