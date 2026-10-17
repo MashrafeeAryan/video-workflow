@@ -1,11 +1,17 @@
-# Preview browser review — awaiting user's decision
+# Corrected preview browser review — awaiting user judgement
 
-- Pass (UI scope): one completed source; five-second portrait preview scene, trim end exactly 5, displayed runtime 00:05:00; original eight-second clip preserved.
-- Pass: two actual approved style-reference images attached as Flow ingredients. No text-only substitution.
-- Observed: opening extreme close-up shows closed eyes. At source 00:00:23 eyes remain closed. At source 00:04:23 eyes are open, camera framing is wider, face/shoulders and burning timber houses are visible. Playback was started and paused for temporal inspection.
-- Fail / pose continuity: boy appears upright/front-facing near five seconds, not clearly lying on dusty cobblestones. Do not claim exact script adherence or approve the full episode on this basis.
-- Unverified: exact eye-opening timing, subtle face morphing/blinks and every frame of motion. No local decoding or exported pixel/codec inspection; user handles downloads.
-- Unverified: audio quality. No dialogue or music was requested; supported browser tools do not provide independent listening output.
-- Style: palette/materials are reference-guided. The user's judgement is needed on whether the Veo result reaches the preferred Kling benchmark; an identical match is not claimed.
+Current scene: e71c453a-34ea-43f3-bcda-cc762cdaabbd. Latest source:67b535cf-d9d0-4bbc-8dda-858ebef24504. No local download or exported-file validation.
 
-20 credits counted used from actual displayed quote and completed generation; zero pending. One initial attempt, zero retries, zero creative revisions. Stop here for user review, no full episode or additional variants.
+| Check | Status | Evidence |
+|---|---|---|
+| Five-second scene | Pass in UI | Picker Trim start0/Trim end5, scene runtime00:05:00. Source displays8s. |
+| Portrait | Pass in UI | Scene toggled to9:16 and vertical preview inspected. |
+| Opening close-up, eyes closed | Pass in sampled actual video | Frames start-image crop shows closed eyes; actual source opening/00:00:16 inspected. |
+| Pullback and eyes open | Pass in sampled temporal review | Playback started; source00:04:23 and later00:06:08 show wider composition and eyes open. |
+| Lying-down pose | Pass in sampled frames | Ground surrounds head and shoulders; torso lies along cobblestones, camera views from above. Original upright portrait composition is no longer present in these samples. |
+| Exact eyelid timing / full motion integrity | Unverified | Not every frame inspected; no exact2s eye-opening assertion. |
+| Appearance continuity | Partial / user review | Saved original character frame used for revision1, then its actual closed-eyes overhead frame cropped for revision2. Wardrobe/color references retained; no guarantee of exact facial identity at every frame. |
+| Cinematography match | User judgement | Photorealistic light/material approach preserved; original reference Kling3.0 versus current Veo3.1Fast still differs. |
+| Sound quality and file integrity | Unverified | No supported independent listening or local decoding; no dialogue required in this preview. |
+
+History: initial take failed pose; revision1 corrected pose but failed extreme-close-up opening. Revision2 targeted only camera start using a native Flow cropped start frame, not another text-only retry. Two creative revisions total. No more generation after the current result; await user before full episode.

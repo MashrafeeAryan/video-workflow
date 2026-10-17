@@ -7,6 +7,18 @@
       "source_seconds": 8,
       "quoted_credits": 20,
       "url": "https://flow.google.com/project/758a5e22-952d-4bbd-aa92-d8d735db6a66/edit/e1ad2f6f-2a5d-4156-8935-9510b6386e06"
+    },
+    {
+      "media_id": "b4ebff4b-06c3-452e-9d89-c37e97eb1813",
+      "status": "completed",
+      "source_seconds": 8,
+      "quoted_credits": 20
+    },
+    {
+      "media_id": "67b535cf-d9d0-4bbc-8dda-858ebef24504",
+      "status": "completed",
+      "source_seconds": 8,
+      "quoted_credits": 20
     }
   ],
   "references_inspected": [
@@ -15,18 +27,18 @@
     "reference-08s.jpg",
     "reference-14s.jpg"
   ],
-  "status": "preview_ready_for_user_review",
+  "status": "corrected_preview_ready_for_user_review",
   "existing_progress": "No progress.json or previous preview output present",
   "technical_retries": 0,
   "budget": {
     "authorized_per_video": 120,
-    "spent": 20,
-    "this_preview_max": 20,
+    "spent": 60,
+    "this_preview_max": 120,
     "pending": 0
   },
   "scope": "One Settler Rush episode 2 five-second eye-opening preview",
-  "creative_revisions": 0,
-  "updated_at": "2026-10-17T15:13:16.775350+00:00",
+  "creative_revisions": 2,
+  "updated_at": "2026-10-17T15:30:42.620029+00:00",
   "blockers": [],
   "flow_project_url": "https://flow.google.com/project/758a5e22-952d-4bbd-aa92-d8d735db6a66",
   "model": "Veo 3.1 - Fast",
@@ -39,8 +51,8 @@
     "type": "Ingredients",
     "resolution_ui": "720p"
   },
-  "actual_source_seconds": null,
-  "actual_trimmed_seconds": null,
+  "actual_source_seconds": 8,
+  "actual_trimmed_seconds": 5,
   "uploaded_reference_ids": [],
   "reference_upload": "User explicitly approved upload; parent normal file chooser accepted reference-04s.jpg and reference-08s.jpg; both visible as ingredients.",
   "generation_settings": {
@@ -55,16 +67,64 @@
   "project_url": "https://flow.google.com/project/758a5e22-952d-4bbd-aa92-d8d735db6a66",
   "submitted_prompt": "submitted-prompt.md",
   "preview": {
+    "scene_id": "e71c453a-34ea-43f3-bcda-cc762cdaabbd",
+    "url": "https://flow.google.com/project/758a5e22-952d-4bbd-aa92-d8d735db6a66/scene/e71c453a-34ea-43f3-bcda-cc762cdaabbd",
+    "duration_seconds": 5,
+    "source_start": 0,
+    "source_end": 5,
+    "aspect_ratio": "9:16",
+    "media_id": "67b535cf-d9d0-4bbc-8dda-858ebef24504"
+  },
+  "quality_approved": false,
+  "known_issues": [
+    "No exhaustive frame-by-frame review or audio listening; isolated shot awaits user judgement. Original upright-pose failure and revision1 wide opening remain recorded in history."
+  ],
+  "credit_accounting": "20 counted used from the verified one-output displayed quote and completed generation; independent balance change not inspected.",
+  "revision_1": {
+    "status": "completed_pose_improved_camera_start_failed",
+    "quoted_credits": 20,
+    "source_seconds": 8,
+    "preview_seconds": 5,
+    "model": "Veo 3.1 - Fast",
+    "output_count": 1,
+    "prompt": "revision-01-submitted-prompt.md",
+    "identity_reference_media_id": "0871b79c-71ca-4285-8e11-4ef1635a2d06",
+    "identity_source_timecode": "00:04:23",
+    "source_pose_is_not_approved": true,
+    "full_story_context_in_prompt": true,
+    "submitted_at": "2026-10-17T15:21:48.136360+00:00",
+    "media_id": "b4ebff4b-06c3-452e-9d89-c37e97eb1813",
+    "source_url": "https://flow.google.com/project/758a5e22-952d-4bbd-aa92-d8d735db6a66/edit/b4ebff4b-06c3-452e-9d89-c37e97eb1813",
+    "observations": [
+      "Overhead view shows cobblestones around head and shoulders; eyes open in later frame.",
+      "Source begins with entire head/shoulders already visible rather than extreme close-up of closed eyes."
+    ],
+    "saved_closed_eye_frame_id": "4fd76c62-74ba-41c8-9fb2-e09307ea09b6"
+  },
+  "revision_2": {
+    "status": "completed_preview_assembled",
+    "model": "Veo 3.1 - Fast",
+    "mode": "Frames",
+    "source_seconds": 8,
+    "preview_seconds": 5,
+    "quoted_credits": 20,
+    "output_count": 1,
+    "prompt": "revision-02-prompt.md",
+    "start_frame_id": "4fd76c62-74ba-41c8-9fb2-e09307ea09b6",
+    "start_frame_preparation": "Native Flow saved frame at revision1 source0, then free portrait crop around closed eyes. Actual cropped preview inspected before submission.",
+    "targeted_defect": "Revision1 opening too wide; preserve corrected lying pose.",
+    "submitted_at": "2026-10-17T15:26:37.013964+00:00",
+    "media_id": "67b535cf-d9d0-4bbc-8dda-858ebef24504",
+    "source_url": "https://flow.google.com/project/758a5e22-952d-4bbd-aa92-d8d735db6a66/edit/67b535cf-d9d0-4bbc-8dda-858ebef24504",
+    "scene_id": "e71c453a-34ea-43f3-bcda-cc762cdaabbd",
+    "preview_url": "https://flow.google.com/project/758a5e22-952d-4bbd-aa92-d8d735db6a66/scene/e71c453a-34ea-43f3-bcda-cc762cdaabbd"
+  },
+  "previous_preview": {
     "scene_id": "3b34b9b2-0875-4f83-bc9a-7b7c28e934b7",
     "url": "https://flow.google.com/project/758a5e22-952d-4bbd-aa92-d8d735db6a66/scene/3b34b9b2-0875-4f83-bc9a-7b7c28e934b7",
     "duration_seconds": 5,
     "source_start": 0,
     "source_end": 5,
     "aspect_ratio": "9:16"
-  },
-  "quality_approved": false,
-  "known_issues": [
-    "At source 00:04:23 the boy appears upright/front-facing rather than visibly lying on cobblestones. User should judge the visual style before further production."
-  ],
-  "credit_accounting": "20 counted used from the verified one-output displayed quote and completed generation; independent balance change not inspected."
+  }
 }
