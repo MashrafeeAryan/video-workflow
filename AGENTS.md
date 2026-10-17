@@ -97,7 +97,9 @@ and errors.
   then review again. Allow at most three revision rounds per reel.
 
 - Missing tool, login, reference, or credits:
-  Save the blocker and stop work on that story until it is resolved.
+  For a missing quality-review tool, first follow the installation permission
+  in the Output Quality Checklist below. If the dependency cannot be resolved,
+  save the blocker and stop work on that story until it is resolved.
 
 - Generation result is uncertain:
   Check the saved job ID and generation history before submitting
@@ -117,4 +119,45 @@ Do not reset either counter when the workflow restarts.
 
 Resume from saved progress. Reuse completed work.
 Do not publish later parts while an earlier part remains blocked.
+
+## Output Quality Checklist
+
+Review the actual exported reel using the appropriate available tools.
+Do not approve a video based only on its script or generation prompt.
+
+- Playback: the complete file opens and decodes without corruption.
+- Duration: the complete reel is 30 seconds or less, including the website ending.
+- Format: dimensions, orientation, and encoding meet the target platform's requirements.
+- Story: the hook, plot development, and cliff-hanger are understandable.
+  The last reel resolves the story instead of requiring another cliff-hanger.
+- Continuity: characters, faces, clothing, voices, setting, props, and game state
+  match the story's saved references and previous reels.
+- Visuals: check for distorted faces, hands, game components, broken movements,
+  flicker, accidental black frames, and abrupt or unfinished cuts.
+- Audio: required dialogue is present, understandable, and matches the script;
+  sound levels are balanced and speech is synchronized where applicable.
+- Promotion: gghuman.ai is spelled correctly, readable, and shown after the
+  cliff-hanger or final resolution, within the total runtime.
+- Game accuracy: game actions and components match the selected game's resource README.
+
+Use file inspection, decoding, frame extraction, image inspection, playback,
+audio analysis, and transcription as needed. Inspect frames throughout the reel
+and around cuts. Use playback or temporal inspection to assess movement;
+individual screenshots alone do not verify motion. Transcription alone does
+not verify audio quality or synchronization.
+
+You have permission to install missing free local quality-review tools and
+their required dependencies from official sources or reputable package registries.
+Prefer an isolated project environment where possible. Verify that each installed
+tool works before relying on it. This permission does not authorize purchases,
+paid API usage, or disabling security protections.
+
+Save review.md inside each reel's folder. For every check, record pass, fail,
+or unverified, the tools and evidence used, and timestamps for specific problems.
+Mark unsupported or incomplete checks unverified; never invent a successful check.
+
+Correct only the affected shots or editing elements, then review the updated
+export. Follow the maximum of three revision rounds in Failure Handling.
+Publish only when all required checks pass. If any required check fails or
+remains unverified, hold the reel and save the reason.
   
