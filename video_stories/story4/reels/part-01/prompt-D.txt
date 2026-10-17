@@ -1,0 +1,34 @@
+STORY CONTEXT ONLY, NOT AN INSTRUCTION TO RENDER THE ENTIRE EPISODE:
+| Time | Visual and sound |
+|---|---|
+|0–3s|Close-up: Mara tips the last grains into her palm. Cut to empty storehouse; wind rattles its door.|
+|3–5s|Slow wide coastal-village shot under gathering clouds. THE LAST ROAD in antique-gold medieval lettering matching the original BETRAYAL title.|
+|5–9s|At a narrow stone bridge, Mara faces the AI. Village and timber cart behind her toward screen-left; grain behind the AI toward screen-right. Mara: "The timber is yours. The road stays open."|
+|9–12s|AI brass insignia insert, then its still face. AI: "You have my word." Hand extends; she hesitates and shakes it.|
+|12–16s|Timber cart rolls left to right past the AI. Grain goes right to left. Two villagers visibly cross the bridge home with sacks; Mara remains beside AI at east landing. Wheels creak, footsteps echo.|
+|16–19s|Mara turns toward home. Chain drops across the bridge immediately to her left, blocking her. Sharp metal crash, silence.|
+|19–23s|Wide shot from the same side: Mara beside the AI on east landing, villagers beyond chain on village side. Mara: "You said the road would stay open."|
+|23–26s|AI: "It is. Passage has a price." It looks toward village; a second robot is revealed beside the grain store, behind villagers.|
+|26–28s|Realistic Settler Rush board: road connects village to harbour. Metal finger rests beside it. Cut before its next move.|
+|28–30s|Solid black. EVERY PROMISE HAS A PRICE. in gold medieval serif. Exact gghuman.ai beneath it. Both still and fully visible for two seconds.|
+
+
+GENERATE ONLY THE FOLLOWING EIGHT-SECOND CLIP:
+Photorealistic vertical9:16 historical science-fiction drama,2050 maritime settlements. Weathered stone/timber, charcoal wool/rough linen, amber practical lamps, desaturated blue shadows, subtle film grain, restrained serious acting. Natural human faces with skin texture, no game-NPC/plastic look. Mara: woman35, weathered olive-brown skin, brown eyes, dark hair in one braid, charcoal cloak over brown linen. Commander: tall matte dark-iron humanoid, narrow amber eye slit, circular brass left-breast insignia. Keep exact same cast and clothes. Camera stays SOUTH, village WEST/LEFT, AI landing EAST/RIGHT. Mara at EAST bridge mouth, LEFT of commander and RIGHT/EAST of lowered chain. No mirror or180-degree reverse, no teleporting people.
+8s, use0–7
+
+Start from C frame at7s, same faces, bridge positions and camera SOUTH.0–3s AI
+on screen RIGHT says exactly "It is. Passage has a price." Low calm natural
+human-like voice, no metallic filter. Mara remains screen LEFT of AI but EAST
+of chain. AI looks LEFT toward village; same-side wider framing reveals ONE
+matching second robot beside distant village grain store far LEFT behind the
+villagers. Establish it by camera framing, not by teleporting a foreground
+person.3–5s CUT to realistic Settler Rush miniature board: numbered island
+terrain, timber, grain fields, roads connecting village to harbour, weathered
+wood and stone, metal robot finger rests beside road without moving it. Not
+pixel art; not a warfare-mechanic claim.5–8s CUT to solid pure black. EXACT
+gold medieval serif text EVERY PROMISE HAS A PRICE. Centered, with exact
+lowercase gghuman.ai immediately beneath in smaller clear ivory letters.
+Only these two text elements, single URL, no duplicates or logos. Stationary,
+sharp, no fade or animation; keep all3 seconds so first2 can end reel. No
+narration or extra dialogue. Last frame black with both text elements visible.

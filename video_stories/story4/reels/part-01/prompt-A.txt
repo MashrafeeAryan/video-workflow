@@ -1,0 +1,30 @@
+STORY CONTEXT ONLY, NOT AN INSTRUCTION TO RENDER THE ENTIRE EPISODE:
+| Time | Visual and sound |
+|---|---|
+|0–3s|Close-up: Mara tips the last grains into her palm. Cut to empty storehouse; wind rattles its door.|
+|3–5s|Slow wide coastal-village shot under gathering clouds. THE LAST ROAD in antique-gold medieval lettering matching the original BETRAYAL title.|
+|5–9s|At a narrow stone bridge, Mara faces the AI. Village and timber cart behind her toward screen-left; grain behind the AI toward screen-right. Mara: "The timber is yours. The road stays open."|
+|9–12s|AI brass insignia insert, then its still face. AI: "You have my word." Hand extends; she hesitates and shakes it.|
+|12–16s|Timber cart rolls left to right past the AI. Grain goes right to left. Two villagers visibly cross the bridge home with sacks; Mara remains beside AI at east landing. Wheels creak, footsteps echo.|
+|16–19s|Mara turns toward home. Chain drops across the bridge immediately to her left, blocking her. Sharp metal crash, silence.|
+|19–23s|Wide shot from the same side: Mara beside the AI on east landing, villagers beyond chain on village side. Mara: "You said the road would stay open."|
+|23–26s|AI: "It is. Passage has a price." It looks toward village; a second robot is revealed beside the grain store, behind villagers.|
+|26–28s|Realistic Settler Rush board: road connects village to harbour. Metal finger rests beside it. Cut before its next move.|
+|28–30s|Solid black. EVERY PROMISE HAS A PRICE. in gold medieval serif. Exact gghuman.ai beneath it. Both still and fully visible for two seconds.|
+
+
+GENERATE ONLY THE FOLLOWING EIGHT-SECOND CLIP:
+Photorealistic vertical9:16 historical science-fiction drama,2050 maritime settlements. Weathered stone/timber, charcoal wool/rough linen, amber practical lamps, desaturated blue shadows, subtle film grain, restrained serious acting. Natural human faces with skin texture, no game-NPC/plastic look. Mara: woman35, weathered olive-brown skin, brown eyes, dark hair in one braid, charcoal cloak over brown linen. Commander: tall matte dark-iron humanoid, narrow amber eye slit, circular brass left-breast insignia. Keep exact same cast and clothes. Camera stays SOUTH, village WEST/LEFT, AI landing EAST/RIGHT. Mara at EAST bridge mouth, LEFT of commander and RIGHT/EAST of lowered chain. No mirror or180-degree reverse, no teleporting people.
+8s
+
+0–1.5s close-up Mara's hand tips last grains from a small bowl into her palm.
+1.5–3s same woman stands by empty timber storehouse, rattling door, wind.
+3–5s wide weathered coastal village under blue storm clouds, amber windows;
+exact gold serif title THE LAST ROAD, no subtitle or other text.
+5–8s establish bridge geography in a medium-wide TWO SHOT, camera SOUTH looking
+NORTH. Village/timber cart screen LEFT(WEST), grain/trading landing screen
+RIGHT(EAST). Mara stands at east bridge mouth, screen LEFT of commander; AI
+screen RIGHT. Both stay there. Chain mechanism at bridge mouth just LEFT/WEST
+of Mara remains lowered. Mara says exactly once, quietly and naturally:
+"The timber is yours. The road stays open." End on both faces in this setup,
+no cut away, no narrator, no other speech or text. No handshake yet.
