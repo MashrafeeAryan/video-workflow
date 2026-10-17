@@ -1,0 +1,53 @@
+FULL EPISODE CONTEXT ONLY:
+| Time | Visual and sound |
+|---|---|
+| 0–2s | Burning timber houses. Fire crackles. |
+| 2–3s | Quick fade through black. Villagers run through smoke. |
+| 3–5s | Title over a slow, wide view of the burning coastal village: THE DECISION. Match the approved BETRAYAL title's ornate antique-gold capital serif letters, thin gold divider and smaller subtitle: 2050 — THE LAST HUMAN PORT. Embers drift; low, restrained cinematic sound. This is not a plain black title card. |
+| 5–10s | One overhead shot, lens pointing straight down at the boy lying flat on his back. Start extremely close on his closed eyes. The camera rises vertically, keeping the same downward angle, revealing his face, the stones around his head, both shoulders resting on the ground, olive shirt and red scarf. His eyes open once as the face comes into view. He remains lying down throughout. Smoke and firelight at the edges suggest the surrounding destruction. Quiet breathing and distant fire. No visible injuries. |
+| 10–11s | Quick fade to black; antique-gold lettering: Is this the end? |
+| 11–13s | New shot: he pushes himself up, then runs from the destruction. Brief fades between shots; hurried footsteps. Getting up happens here, never during the overhead eye-opening shot. |
+| 13–15s | He reaches another village. Someone catches him as he stumbles and offers water. Soft, concerned voices without required dialogue. |
+| 15–18s | The AI arrives carrying grain and offers it for timber. Show the grain and timber so the trade direction is clear. The boy notices the same brass insignia as the attackers. The earlier promise makes the trade threatening rather than reassuring. Quiet market ambience falls away as he recognizes it. |
+| 18–19s | Black screen: Would you trust them? |
+| 19–21s | Close-up of a die resting in the boy's hand. He hesitates. |
+| 21–22s | Black screen: What do you decide? |
+| 22–25s | Low camera beneath his hand faces upward. He throws the die into the sky. It rises, then falls toward the lens. |
+| 25–28s | Match cut: the die drops through clouds onto a realistic Settler Rush board, with detailed terrain and miniature settlements matching the cinematic style. It lands with a sharp clack. |
+| 28–30s | Solid black. Large antique-gold medieval serif lettering: YOUR MOVE. THEIR FUTURE. Beneath it: exact gghuman.ai. Both fully visible and still for the final two seconds. |
+
+
+GENERATE ONLY CLIP D BELOW:
+
+
+Vertical 9:16 photorealistic historical science-fiction drama. Year 2050 after
+civilization collapsed into maritime settlements. Continue THE LAST HUMAN PORT
+after its AI betrayal. Weathered stone and timber, desaturated blue shadows,
+amber practical firelight, tactile film grain, natural human faces and restrained
+acting. No glossy plastic skin, cartoon rendering or video-game NPC appearance.
+Use the actual attached reference frames for cinematic materials and lighting.
+No wounds, blood or graphic violence. No narrator or additional invented text.
+Eli is 17, lean, warm brown skin, short untidy black hair, dark brown eyes,
+faded olive linen shirt, worn brown trousers, rust-red scarf, dust and light soot.
+Keep the same face and clothes throughout. Robots are tall matte dark iron,
+narrow amber horizontal eye slit, circular brass alliance insignia on left breast.
+The grain trade and betrayal are narrative framing around Settler Rush; no claim
+that warfare is a playable game mechanic. Sound is natural, quiet and cinematic.
+
+ source 0–8, episode 22–30
+
+Generate exactly eight seconds. 0–3s: low camera BELOW Eli's hand points UP.
+Same die starts in his hand; he throws it overhead with a connected release.
+It rises, rotates under gravity, then descends toward the lens. Keep one cube,
+correct faces and fingers, no hovering or teleportation. Wind and cloth movement.
+3–6s: match cut through clouds as that die descends onto a realistic Settler Rush
+island board: numbered terrain tiles, grain fields, forests, hills, realistic
+miniature roads and settlements, coastal harbours, tactile wood and stone,
+same cinematic light. No pixel art or other game's branding. It lands with one
+sharp clack. This single-die transition is a metaphor; actual game uses two dice.
+At EXACTLY 6s cut to pure solid black. For the ENTIRE final two seconds display
+exact YOUR MOVE. THEIR FUTURE. centered in large elegant antique-gold medieval
+serif lettering inspired by Age of Empires. Directly below, exact gghuman.ai
+in smaller clean readable lettering. Both lines sharp, stationary and fully
+visible from 6s through 8s, no fade shortening their hold. Generate this ending
+inside the video itself. No additional logo, voiceover or text.

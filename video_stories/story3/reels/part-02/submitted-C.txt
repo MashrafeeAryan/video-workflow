@@ -1,0 +1,52 @@
+FULL EPISODE CONTEXT ONLY:
+| Time | Visual and sound |
+|---|---|
+| 0–2s | Burning timber houses. Fire crackles. |
+| 2–3s | Quick fade through black. Villagers run through smoke. |
+| 3–5s | Title over a slow, wide view of the burning coastal village: THE DECISION. Match the approved BETRAYAL title's ornate antique-gold capital serif letters, thin gold divider and smaller subtitle: 2050 — THE LAST HUMAN PORT. Embers drift; low, restrained cinematic sound. This is not a plain black title card. |
+| 5–10s | One overhead shot, lens pointing straight down at the boy lying flat on his back. Start extremely close on his closed eyes. The camera rises vertically, keeping the same downward angle, revealing his face, the stones around his head, both shoulders resting on the ground, olive shirt and red scarf. His eyes open once as the face comes into view. He remains lying down throughout. Smoke and firelight at the edges suggest the surrounding destruction. Quiet breathing and distant fire. No visible injuries. |
+| 10–11s | Quick fade to black; antique-gold lettering: Is this the end? |
+| 11–13s | New shot: he pushes himself up, then runs from the destruction. Brief fades between shots; hurried footsteps. Getting up happens here, never during the overhead eye-opening shot. |
+| 13–15s | He reaches another village. Someone catches him as he stumbles and offers water. Soft, concerned voices without required dialogue. |
+| 15–18s | The AI arrives carrying grain and offers it for timber. Show the grain and timber so the trade direction is clear. The boy notices the same brass insignia as the attackers. The earlier promise makes the trade threatening rather than reassuring. Quiet market ambience falls away as he recognizes it. |
+| 18–19s | Black screen: Would you trust them? |
+| 19–21s | Close-up of a die resting in the boy's hand. He hesitates. |
+| 21–22s | Black screen: What do you decide? |
+| 22–25s | Low camera beneath his hand faces upward. He throws the die into the sky. It rises, then falls toward the lens. |
+| 25–28s | Match cut: the die drops through clouds onto a realistic Settler Rush board, with detailed terrain and miniature settlements matching the cinematic style. It lands with a sharp clack. |
+| 28–30s | Solid black. Large antique-gold medieval serif lettering: YOUR MOVE. THEIR FUTURE. Beneath it: exact gghuman.ai. Both fully visible and still for the final two seconds. |
+
+
+GENERATE ONLY CLIP C BELOW:
+
+
+Vertical 9:16 photorealistic historical science-fiction drama. Year 2050 after
+civilization collapsed into maritime settlements. Continue THE LAST HUMAN PORT
+after its AI betrayal. Weathered stone and timber, desaturated blue shadows,
+amber practical firelight, tactile film grain, natural human faces and restrained
+acting. No glossy plastic skin, cartoon rendering or video-game NPC appearance.
+Use the actual attached reference frames for cinematic materials and lighting.
+No wounds, blood or graphic violence. No narrator or additional invented text.
+Eli is 17, lean, warm brown skin, short untidy black hair, dark brown eyes,
+faded olive linen shirt, worn brown trousers, rust-red scarf, dust and light soot.
+Keep the same face and clothes throughout. Robots are tall matte dark iron,
+narrow amber horizontal eye slit, circular brass alliance insignia on left breast.
+The grain trade and betrayal are narrative framing around Settler Rush; no claim
+that warfare is a playable game mechanic. Sound is natural, quiet and cinematic.
+
+ source 0–8, use 0–6, episode 16–22
+
+Generate exactly this edit; the first SIX seconds are used in the reel, followed
+by two disposable seconds of plain black. 0–2s: dark-iron AI trader offers its
+grain sacks for villagers' timber logs. Show both materials and correct direction:
+AI supplies grain, villagers supply timber. Eli notices the SAME circular brass
+left-breast insignia as the attackers; tight reaction and insert of insignia make
+his recognition clear. Market ambience falls quiet. No invented dialogue.
+2–3s: solid black, exact antique-gold serif text Would you trust them?
+3–5s: close-up of Eli's hand holding ONE die, already resting in his palm from
+the first frame. He hesitates. Keep olive sleeve, red scarf and skin consistent.
+No die materializing, duplication, malformed fingers or throw yet.
+5–6s: solid black, exact antique-gold serif text What do you decide?
+6–8s: remain plain solid black, no words or sounds; this tail will be trimmed.
+Do not replace the trade with an unrelated betrayal or claim AI is a rescuer.
+
